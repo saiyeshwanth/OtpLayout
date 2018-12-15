@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Otp Layout</string>
+    <string name="des2">How do you want to verify your OTP?</string>
+    <string name="b1">Manually</string>
+    <string name="b2">Automatically</string>
+    <string name="des3">Enter 4 digit OTP sent to </string>
+    <string name="des1">Enter your mobile number</string>
+    <string name="hint">9666750456</string>
+    <string name="send">Send</string>
+
+
+</resources>
